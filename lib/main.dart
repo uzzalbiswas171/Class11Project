@@ -14,6 +14,6 @@ void main() => runApp(MaterialApp(
       primaryColor: Colors.grey[800],
 
     ),
-    home: CategoryPage()));
+    home: HomePage()));
 
 
